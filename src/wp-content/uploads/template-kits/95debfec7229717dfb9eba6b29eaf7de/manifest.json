@@ -1,0 +1,1681 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Criativo - Creative Agency & Portfolio Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.1",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage 1",
+            "screenshot": "screenshots\/homepage-1.jpg",
+            "source": "templates\/homepage-1.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/criativo\/template-kit\/homepage-1\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage 2",
+            "screenshot": "screenshots\/homepage-2.jpg",
+            "source": "templates\/homepage-2.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/criativo\/template-kit\/homepage-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/criativo\/template-kit\/794\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Me",
+            "screenshot": "screenshots\/about-me.jpg",
+            "source": "templates\/about-me.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/criativo\/template-kit\/about-me\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/criativo\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/criativo\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio 1",
+            "screenshot": "screenshots\/portfolio-1.jpg",
+            "source": "templates\/portfolio-1.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/criativo\/template-kit\/portfolio-1\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio 2",
+            "screenshot": "screenshots\/portfolio-2.jpg",
+            "source": "templates\/portfolio-2.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/criativo\/template-kit\/portfolio-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio 3",
+            "screenshot": "screenshots\/portfolio-3.jpg",
+            "source": "templates\/portfolio-3.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/criativo\/template-kit\/portfolio-standar\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Latest Project",
+            "screenshot": "screenshots\/latest-project.jpg",
+            "source": "templates\/latest-project.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/criativo\/template-kit\/latest-project\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Project",
+            "screenshot": "screenshots\/single-project.jpg",
+            "source": "templates\/single-project.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/criativo\/template-kit\/single-project\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Latest News",
+            "screenshot": "screenshots\/latest-news.jpg",
+            "source": "templates\/latest-news.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/criativo\/template-kit\/latest-news\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.jpg",
+            "source": "templates\/testimonials.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/criativo\/template-kit\/testimonials\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/criativo\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/criativo\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/criativo\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Contact Form 7",
+            "version": "5.6",
+            "file": "contact-form-7\/wp-contact-form-7.php",
+            "author": "Takayuki Miyoshi"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.6.7",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.6.2",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "PowerPack Lite for Elementor",
+            "version": "2.6.16",
+            "file": "powerpack-lite-for-elementor\/powerpack-lite-elementor.php",
+            "author": "IdeaBox Creations"
+        }
+    ],
+    "images": [
+        {
+            "filename": "portrait-of-a-woman-with-artistic-make-up-P7ZSU5P.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/portrait-of-a-woman-with-artistic-make-up-P7ZSU5P-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                }
+            ],
+            "filesize": 226310,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P7ZSU5P"
+        },
+        {
+            "filename": "6-Brand-Identity.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/6-Brand-Identity.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                }
+            ],
+            "filesize": 12406,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/digital-marketing-line-icons-PA3DSUM"
+        },
+        {
+            "filename": "5-Web-Design.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/5-Web-Design.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                }
+            ],
+            "filesize": 10764,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/digital-marketing-line-icons-PA3DSUM"
+        },
+        {
+            "filename": "1-Ui-Ux.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/1-Ui-Ux.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                }
+            ],
+            "filesize": 9841,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/digital-marketing-line-icons-PA3DSUM"
+        },
+        {
+            "filename": "4-Video-Marketing.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/4-Video-Marketing.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                }
+            ],
+            "filesize": 12142,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/digital-marketing-line-icons-PA3DSUM"
+        },
+        {
+            "filename": "Untitled-1.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/Untitled-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 252707,
+            "dimensions": [
+                498,
+                647
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/dj-girl-drink-fresh-smoothie-minimal-aesthetic-mon-KUGZXA8"
+        },
+        {
+            "filename": "Clean-Code.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/Clean-Code.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 17868,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/digital-marketing-line-icons-PA3DSUM"
+        },
+        {
+            "filename": "Modern-Design.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/Modern-Design.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                }
+            ],
+            "filesize": 12416,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/digital-marketing-line-icons-PA3DSUM"
+        },
+        {
+            "filename": "1.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/1-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 188359,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/side-view-portrait-of-a-woman-with-make-up-CTUMAUJ"
+        },
+        {
+            "filename": "10-Project-Done.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/10-Project-Done.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 9604,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/digital-marketing-line-icons-PA3DSUM"
+        },
+        {
+            "filename": "7-Happy-Costumer.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/7-Happy-Costumer.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 14248,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/digital-marketing-line-icons-PA3DSUM"
+        },
+        {
+            "filename": "8-Award-Winning.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/8-Award-Winning.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 9154,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/digital-marketing-line-icons-PA3DSUM"
+        },
+        {
+            "filename": "9-Team-Crew.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/9-Team-Crew.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 22645,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/digital-marketing-line-icons-PA3DSUM"
+        },
+        {
+            "filename": "G9.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/G9-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/portfolio-1.json",
+                    "name": "Portfolio 1"
+                },
+                {
+                    "source": "templates\/portfolio-3.json",
+                    "name": "Portfolio 3"
+                },
+                {
+                    "source": "templates\/latest-project.json",
+                    "name": "Latest Project"
+                }
+            ],
+            "filesize": 98410,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/vanilla-mint-dj-girl-monochrome-party-colours-styl-QH4DLNU"
+        },
+        {
+            "filename": "G5.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/G5-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/portfolio-1.json",
+                    "name": "Portfolio 1"
+                },
+                {
+                    "source": "templates\/portfolio-3.json",
+                    "name": "Portfolio 3"
+                },
+                {
+                    "source": "templates\/latest-project.json",
+                    "name": "Latest Project"
+                }
+            ],
+            "filesize": 106520,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/blank-amber-glass-face-serum-bottle-5FUNVGL"
+        },
+        {
+            "filename": "G4.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/G4-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/portfolio-1.json",
+                    "name": "Portfolio 1"
+                },
+                {
+                    "source": "templates\/latest-project.json",
+                    "name": "Latest Project"
+                }
+            ],
+            "filesize": 102775,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-origami-flower-structure-P49X8MZ"
+        },
+        {
+            "filename": "G1.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/G1-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/portfolio-1.json",
+                    "name": "Portfolio 1"
+                },
+                {
+                    "source": "templates\/portfolio-3.json",
+                    "name": "Portfolio 3"
+                },
+                {
+                    "source": "templates\/latest-project.json",
+                    "name": "Latest Project"
+                }
+            ],
+            "filesize": 128413,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/abstract-pattern-PA37PST"
+        },
+        {
+            "filename": "side-view-portrait-of-a-woman-with-make-up-CTUMAUJ.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/side-view-portrait-of-a-woman-with-make-up-CTUMAUJ-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 187822,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CTUMAUJ"
+        },
+        {
+            "filename": "1-1.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 13577,
+            "dimensions": [
+                300,
+                115
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "1-2.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/1-2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 6523,
+            "dimensions": [
+                300,
+                115
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "1-3.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/1-3.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 8597,
+            "dimensions": [
+                300,
+                115
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "1-5.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/1-5.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 5039,
+            "dimensions": [
+                300,
+                115
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "1-6.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/1-6.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 6074,
+            "dimensions": [
+                300,
+                115
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "apelah.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/apelah-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                }
+            ],
+            "filesize": 213753,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/shooting-studio-for-photographer-and-creative-art--LPAS85U"
+        },
+        {
+            "filename": "11.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/11-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 207721,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-asian-japanese-girl-street-portraits-PL9LBJB"
+        },
+        {
+            "filename": "Bg-1.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/Bg-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 139701,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-beautiful-woman-with-sparkles-on-her-f-KXFSW4A"
+        },
+        {
+            "filename": "T1.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/T1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 207892,
+            "dimensions": [
+                454,
+                406
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-handsome-man-against-gray-background-PQEBPX2"
+        },
+        {
+            "filename": "T3.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/T3.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 242896,
+            "dimensions": [
+                499,
+                446
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-young-beautiful-woman-against-gray-bac-BZKUC26"
+        },
+        {
+            "filename": "T2.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/T2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 229843,
+            "dimensions": [
+                545,
+                487
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-beautiful-woman-against-gray-background-75CAG68"
+        },
+        {
+            "filename": "T4.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/T4.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 249958,
+            "dimensions": [
+                536,
+                479
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/studio-shot-of-young-handsome-man-against-brown-ba-K7F9HGA"
+        },
+        {
+            "filename": "G3.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/G3-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/portfolio-1.json",
+                    "name": "Portfolio 1"
+                },
+                {
+                    "source": "templates\/portfolio-3.json",
+                    "name": "Portfolio 3"
+                }
+            ],
+            "filesize": 63597,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/angel-statue-minimal-still-life-art-monochrome-tre-H75FPEF"
+        },
+        {
+            "filename": "G6.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/G6-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/portfolio-1.json",
+                    "name": "Portfolio 1"
+                },
+                {
+                    "source": "templates\/portfolio-3.json",
+                    "name": "Portfolio 3"
+                }
+            ],
+            "filesize": 110846,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/face-care-concept-art-minimal-still-life-design-ma-A2YDCEW"
+        },
+        {
+            "filename": "G7.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/G7-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/portfolio-1.json",
+                    "name": "Portfolio 1"
+                },
+                {
+                    "source": "templates\/portfolio-3.json",
+                    "name": "Portfolio 3"
+                }
+            ],
+            "filesize": 111013,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/minimal-aesthetic-fashion-monochrome-design-aqua-m-2GUP9RQ"
+        },
+        {
+            "filename": "G8.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/G8-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/portfolio-1.json",
+                    "name": "Portfolio 1"
+                },
+                {
+                    "source": "templates\/portfolio-3.json",
+                    "name": "Portfolio 3"
+                }
+            ],
+            "filesize": 94664,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/set-moisturizing-cosmetics-on-water-with-drops-gla-V7R3HX7"
+        },
+        {
+            "filename": "G2.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/G2-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/portfolio-1.json",
+                    "name": "Portfolio 1"
+                },
+                {
+                    "source": "templates\/portfolio-3.json",
+                    "name": "Portfolio 3"
+                }
+            ],
+            "filesize": 75981,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/angel-minimal-still-life-art-monochrome-trendy-col-2HCT4XK"
+        },
+        {
+            "filename": "adadad.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/adadad-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 243682,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/futuristic-model-with-violet-hair-trendy-haircut-N8W949C"
+        },
+        {
+            "filename": "N1.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/N1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/latest-news.json",
+                    "name": "Latest News"
+                }
+            ],
+            "filesize": 163554,
+            "dimensions": [
+                900,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-businesswoman-in-eyeglasses-using-tablet-whi-UKPLJWW"
+        },
+        {
+            "filename": "N2.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/N2-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/latest-news.json",
+                    "name": "Latest News"
+                }
+            ],
+            "filesize": 200465,
+            "dimensions": [
+                900,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/group-of-successful-businesswomen-in-office-K6M42WG"
+        },
+        {
+            "filename": "N3.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/N3-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/latest-news.json",
+                    "name": "Latest News"
+                }
+            ],
+            "filesize": 146561,
+            "dimensions": [
+                900,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-partners-working-at-office-5AHGFSJ"
+        },
+        {
+            "filename": "bg-2.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/bg-2-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 177112,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/business-dotted-world-map-C3EU3G7"
+        },
+        {
+            "filename": "adadadada.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/adadadada.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 253976,
+            "dimensions": [
+                443,
+                666
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-handsome-man-against-gray-background-EGKRGJS"
+        },
+        {
+            "filename": "TTD.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/TTD.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 5012,
+            "dimensions": [
+                300,
+                69
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "G15.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/G15-800x444.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/portfolio-2.json",
+                    "name": "Portfolio 2"
+                }
+            ],
+            "filesize": 190923,
+            "dimensions": [
+                900,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/angel-statue-minimal-still-life-art-monochrome-tre-H75FPEF"
+        },
+        {
+            "filename": "G16.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/G16-800x444.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/portfolio-2.json",
+                    "name": "Portfolio 2"
+                }
+            ],
+            "filesize": 115930,
+            "dimensions": [
+                900,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/vanilla-mint-dj-girl-monochrome-party-colours-styl-QH4DLNU"
+        },
+        {
+            "filename": "G17.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/G17-800x444.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/portfolio-2.json",
+                    "name": "Portfolio 2"
+                }
+            ],
+            "filesize": 119355,
+            "dimensions": [
+                900,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-origami-flower-structure-P49X8MZ"
+        },
+        {
+            "filename": "G18.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/G18-800x444.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/portfolio-2.json",
+                    "name": "Portfolio 2"
+                }
+            ],
+            "filesize": 137752,
+            "dimensions": [
+                900,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/face-care-concept-art-minimal-still-life-design-ma-A2YDCEW"
+        },
+        {
+            "filename": "G19.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/G19-800x444.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/portfolio-2.json",
+                    "name": "Portfolio 2"
+                }
+            ],
+            "filesize": 113555,
+            "dimensions": [
+                900,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/set-moisturizing-cosmetics-on-water-with-drops-gla-V7R3HX7"
+        },
+        {
+            "filename": "a-aawfa.jpg",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/a-aawfa-800x222.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/portfolio-1.json",
+                    "name": "Portfolio 1"
+                },
+                {
+                    "source": "templates\/portfolio-2.json",
+                    "name": "Portfolio 2"
+                },
+                {
+                    "source": "templates\/portfolio-3.json",
+                    "name": "Portfolio 3"
+                },
+                {
+                    "source": "templates\/latest-project.json",
+                    "name": "Latest Project"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                },
+                {
+                    "source": "templates\/latest-news.json",
+                    "name": "Latest News"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 210044,
+            "dimensions": [
+                1920,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-asian-japanese-girl-street-portraits-PL9LBJB"
+        },
+        {
+            "filename": "S-1.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/S-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 6580,
+            "dimensions": [
+                300,
+                279
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/65-marketing-agency-line-icons-WWTPSSS"
+        },
+        {
+            "filename": "T5.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/T5.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 220188,
+            "dimensions": [
+                454,
+                406
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/close-up-portrait-of-a-young-stylish-man-with-drea-EBYSJSG"
+        },
+        {
+            "filename": "T6.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/T6.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 244584,
+            "dimensions": [
+                454,
+                406
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-handsome-african-businessman-against-brown-b-N54YVZ4"
+        },
+        {
+            "filename": "Logo.png",
+            "thumbnail_url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/Logo.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 4193,
+            "dimensions": [
+                300,
+                86
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

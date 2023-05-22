@@ -1,0 +1,674 @@
+{
+    "version": "0.4",
+    "title": "Testimonials",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "67fcb46c",
+            "settings": {
+                "background_background": "classic",
+                "background_image": {
+                    "url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/a-aawfa.jpg",
+                    "id": 797,
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_position": "center center",
+                "background_size": "cover",
+                "background_overlay_background": "classic",
+                "padding": {
+                    "unit": "em",
+                    "top": "6",
+                    "right": "1",
+                    "bottom": "6",
+                    "left": "1",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_overlay_color": "globals\/colors?id=16356db"
+                }
+            },
+            "elements": [
+                {
+                    "id": "1b11293f",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "padding": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "space_between_widgets": 0
+                    },
+                    "elements": [
+                        {
+                            "id": "3fade6c3",
+                            "settings": {
+                                "ekit_heading_title": "{{Testi}}monials",
+                                "ekit_heading_sub_title_show": "",
+                                "ekit_heading_sub_title": "CREATIVE AGENCY",
+                                "ekit_heading_sub_title_position": "before_title",
+                                "ekit_heading_section_extra_title_show": "",
+                                "ekit_heading_extra_title": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis quam eget ex blandit cursus. Proin est magna, semper a porta sed, lacinia eu lectus. Ut volutpat commodo ipsum at volutpat. Donec eros sem, rhoncus eu pellentesque sit amet, congue venenatis ipsum.<\/p>",
+                                "desciption_width": {
+                                    "unit": "em",
+                                    "size": 10,
+                                    "sizes": []
+                                },
+                                "shadow_text_content": "bussiness",
+                                "ekit_heading_seperator_style": "elementskit-border-divider elementskit-style-long",
+                                "ekit_heading_title_color": "#F9F9F9",
+                                "ekit_heading_focused_title_color": "#5CD2B9",
+                                "ekit_heading_use_sub_title_text_fill": "",
+                                "ekit_heading_seperator_height": {
+                                    "unit": "px",
+                                    "size": 3,
+                                    "sizes": []
+                                },
+                                "ekit_heading_seperator_color": "#5CD2B9",
+                                "_animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "__globals__": {
+                                    "ekit_heading_title_color": "globals\/colors?id=6aba3dc",
+                                    "ekit_heading_focused_title_color": "globals\/colors?id=6fc639b",
+                                    "ekit_heading_title_typography_typography": "globals\/typography?id=44d4208",
+                                    "ekit_heading_sub_title_color": "globals\/colors?id=6fc639b",
+                                    "ekit_heading_sub_title_typography_typography": "globals\/typography?id=a61baf2",
+                                    "ekit_heading_seperator_color": "globals\/colors?id=6fc639b",
+                                    "ekit_heading_focused_title_typography_typography": ""
+                                },
+                                "show_title_border": "",
+                                "title_float_left": "",
+                                "ekit_heading_sub_title_tag": "h5",
+                                "ekit_heading_focused_title_typography_font_family": "Work Sans",
+                                "ekit_heading_focused_title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 75,
+                                    "sizes": []
+                                },
+                                "ekit_heading_focused_title_typography_font_weight": "bold",
+                                "ekit_heading_focused_title_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "ekit_heading_show_seperator": "",
+                                "ekit_heading_title_align": "text_center",
+                                "ekit_heading_sub_title_color": "#5CD2B9",
+                                "ekit_heading_sub_title_typography_typography": "custom",
+                                "ekit_heading_sub_title_typography_font_family": "Poppins",
+                                "ekit_heading_sub_title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "ekit_heading_sub_title_typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 12,
+                                    "sizes": []
+                                },
+                                "ekit_heading_sub_title_typography_font_weight": "600",
+                                "ekit_heading_sub_title_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 4,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "74302e58",
+                            "settings": {
+                                "editor": "<p><a href=\"#\">Home<\/a> \/ Testimonials<\/p>",
+                                "align": "center",
+                                "typography_font_family": "Roboto",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 10,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "400",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.8,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "text_color": "globals\/colors?id=6aba3dc",
+                                    "typography_typography": ""
+                                },
+                                "_animation": "fadeInUp",
+                                "animation_duration": "slow"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "7bc5c7fe",
+            "settings": {
+                "background_background": "classic",
+                "background_image": {
+                    "url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/adadad.jpg",
+                    "id": 507,
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_position": "center center",
+                "background_attachment": "fixed",
+                "background_size": "cover",
+                "background_overlay_background": "classic",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.7,
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "em",
+                    "top": "6",
+                    "right": "1",
+                    "bottom": "6",
+                    "left": "1",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_overlay_color": "globals\/colors?id=349d81c"
+                }
+            },
+            "elements": [
+                {
+                    "id": "328242b5",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "space_between_widgets": 0
+                    },
+                    "elements": [
+                        {
+                            "id": "4efa6efe",
+                            "settings": {
+                                "ekit_heading_title": "What {{Client}} Says.",
+                                "ekit_heading_sub_title_show": "yes",
+                                "ekit_heading_sub_title": "TESTIMONIALS",
+                                "ekit_heading_sub_title_position": "before_title",
+                                "ekit_heading_section_extra_title_show": "",
+                                "ekit_heading_extra_title": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis quam eget ex blandit cursus. Proin est magna, semper a porta sed, lacinia eu lectus. Ut volutpat commodo ipsum at volutpat. Donec eros sem, rhoncus eu pellentesque sit amet, congue venenatis ipsum.<\/p>",
+                                "desciption_width": {
+                                    "unit": "em",
+                                    "size": 10,
+                                    "sizes": []
+                                },
+                                "shadow_text_content": "bussiness",
+                                "ekit_heading_seperator_style": "elementskit-border-divider elementskit-style-long",
+                                "ekit_heading_title_color": "#F9F9F9",
+                                "ekit_heading_focused_title_color": "#5CD2B9",
+                                "ekit_heading_sub_title_color": "#5CD2B9",
+                                "ekit_heading_use_sub_title_text_fill": "",
+                                "ekit_heading_seperator_height": {
+                                    "unit": "px",
+                                    "size": 3,
+                                    "sizes": []
+                                },
+                                "ekit_heading_seperator_color": "#5CD2B9",
+                                "animation_duration": "slow",
+                                "__globals__": {
+                                    "ekit_heading_title_color": "globals\/colors?id=6aba3dc",
+                                    "ekit_heading_focused_title_color": "globals\/colors?id=6fc639b",
+                                    "ekit_heading_title_typography_typography": "globals\/typography?id=cad98b2",
+                                    "ekit_heading_sub_title_color": "globals\/colors?id=6fc639b",
+                                    "ekit_heading_sub_title_typography_typography": "globals\/typography?id=a61baf2",
+                                    "ekit_heading_seperator_color": "globals\/colors?id=6fc639b",
+                                    "ekit_heading_focused_title_typography_typography": "globals\/typography?id=cad98b2"
+                                },
+                                "ekit_heading_title_tag": "h3",
+                                "ekit_heading_sub_title_tag": "h5",
+                                "_animation": "fadeInUp",
+                                "ekit_heading_title_align_mobile": "text_center",
+                                "ekit_heading_title_align": "text_center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7c0275d8",
+                            "settings": {
+                                "space": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "spacer",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6dcf9e60",
+                            "settings": {
+                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis quam eget ex blandit cursus. Proin est magna, semper a. Donec eros sem, rhoncus eu pellentesque sit amet,\u00a0<\/p>",
+                                "_padding": {
+                                    "unit": "em",
+                                    "top": "0",
+                                    "right": "10",
+                                    "bottom": "0",
+                                    "left": "10",
+                                    "isLinked": false
+                                },
+                                "animation_duration": "slow",
+                                "__globals__": {
+                                    "text_color": "",
+                                    "typography_typography": ""
+                                },
+                                "align": "center",
+                                "typography_font_family": "Roboto",
+                                "typography_font_weight": "400",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.8,
+                                    "sizes": []
+                                },
+                                "align_mobile": "center",
+                                "_padding_tablet": {
+                                    "unit": "em",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "e204094",
+                            "settings": {
+                                "ekit_testimonial_style": "style5",
+                                "ekit_testimonial_rating_enable": "",
+                                "ekit_testimonial_data": [
+                                    {
+                                        "client_name": "Adam Smith",
+                                        "designation": "Businessman",
+                                        "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis quam eget ex blandit cursus. Proin est magna, semper a. Donec eros sem, rhoncus eu pellentesque sit amet,\u00a0",
+                                        "client_photo": {
+                                            "url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/11.jpg",
+                                            "id": 501,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "client_logo": {
+                                            "url": "",
+                                            "id": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "__globals__": {
+                                            "ekit_testimonial_background_group_color": ""
+                                        },
+                                        "_id": "1d65eeb"
+                                    },
+                                    {
+                                        "client_name": "Adam Smith",
+                                        "designation": "Businessman",
+                                        "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis quam eget ex blandit cursus. Proin est magna, semper a. Donec eros sem, rhoncus eu pellentesque sit amet,\u00a0",
+                                        "client_photo": {
+                                            "url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/11.jpg",
+                                            "id": 501,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "client_logo": {
+                                            "url": "",
+                                            "id": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "__globals__": {
+                                            "ekit_testimonial_background_group_color": ""
+                                        },
+                                        "_id": "37d7341"
+                                    },
+                                    {
+                                        "client_name": "Adam Smith",
+                                        "designation": "Businessman",
+                                        "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis quam eget ex blandit cursus. Proin est magna, semper a. Donec eros sem, rhoncus eu pellentesque sit amet,\u00a0",
+                                        "client_photo": {
+                                            "url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/11.jpg",
+                                            "id": 501,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "client_logo": {
+                                            "url": "",
+                                            "id": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "__globals__": {
+                                            "ekit_testimonial_background_group_color": ""
+                                        },
+                                        "_id": "3de5ea2"
+                                    },
+                                    {
+                                        "client_name": "Adam Smith",
+                                        "designation": "Businessman",
+                                        "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis quam eget ex blandit cursus. Proin est magna, semper a. Donec eros sem, rhoncus eu pellentesque sit amet,\u00a0",
+                                        "client_photo": {
+                                            "url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/11.jpg",
+                                            "id": 501,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "client_logo": {
+                                            "url": "",
+                                            "id": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "__globals__": {
+                                            "ekit_testimonial_background_group_color": ""
+                                        },
+                                        "_id": "40b37d0"
+                                    }
+                                ],
+                                "ekit_testimonial_layout_margin": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "ekit_testimonial_layout_padding": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "20",
+                                    "bottom": "25",
+                                    "left": "30",
+                                    "isLinked": false
+                                },
+                                "ekit_testimonial_layout_background_background": "classic",
+                                "ekit_testimonial_layout_background_color": "#151515CF",
+                                "ekit_testimonial_section_wraper_horizontal_alignment": "left",
+                                "ekit_testimonial_section_wraper_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_testimonial_description_color": "#AAAAAA",
+                                "ekit_testimonial_description_active_color": "#AAAAAA",
+                                "ekit_testimonial_description_typography_typography": "custom",
+                                "ekit_testimonial_description_typography_font_family": "Roboto",
+                                "ekit_testimonial_description_typography_font_weight": "400",
+                                "ekit_testimonial_description_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.8,
+                                    "sizes": []
+                                },
+                                "ekit_testimonial_description_margin": {
+                                    "unit": "em",
+                                    "top": "2",
+                                    "right": "0",
+                                    "bottom": "2",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_testimonial_section_wathermark_color": "#5CD2B9",
+                                "ekit_testimonial_section_wathermark_icon_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "9",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_testimonial_client_image_size": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "ekit_testimonial_layout_background_color": "globals\/colors?id=9be98e4",
+                                    "ekit_testimonial_description_color": "globals\/colors?id=a8362ae",
+                                    "ekit_testimonial_description_active_color": "globals\/colors?id=a8362ae",
+                                    "ekit_testimonial_description_typography_typography": "globals\/typography?id=b859a05",
+                                    "ekit_testimonial_section_wathermark_color": "globals\/colors?id=6fc639b",
+                                    "ekit_testimonial_title_separator_color": "",
+                                    "ekit_testimonial_client_name_normal_color": "globals\/colors?id=6aba3dc",
+                                    "ekit_testimonial_client_name_active_color": "globals\/colors?id=6fc639b",
+                                    "ekit_testimonial_client_name_typography_typography": "globals\/typography?id=e909243",
+                                    "ekit_testimonial_designation_normal_color": "globals\/colors?id=6fc639b",
+                                    "ekit_testimonial_designation_active_color": "globals\/colors?id=6fc639b"
+                                },
+                                "ekit_testimonial_slidetoshow_tablet": 2,
+                                "ekit_testimonial_slidesToScroll_tablet": 1,
+                                "ekit_testimonial_slidetoshow": 3,
+                                "_animation": "fadeInLeft",
+                                "animation_duration": "slow"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-testimonial",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2955d16b",
+                            "settings": {
+                                "ekit_testimonial_style": "style5",
+                                "ekit_testimonial_rating_enable": "",
+                                "ekit_testimonial_data": [
+                                    {
+                                        "client_name": "Adam Smith",
+                                        "designation": "Businessman",
+                                        "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis quam eget ex blandit cursus. Proin est magna, semper a. Donec eros sem, rhoncus eu pellentesque sit amet,\u00a0",
+                                        "client_photo": {
+                                            "url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/11.jpg",
+                                            "id": 501,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "client_logo": {
+                                            "url": "",
+                                            "id": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "__globals__": {
+                                            "ekit_testimonial_background_group_color": ""
+                                        },
+                                        "_id": "1d65eeb"
+                                    },
+                                    {
+                                        "client_name": "Adam Smith",
+                                        "designation": "Businessman",
+                                        "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis quam eget ex blandit cursus. Proin est magna, semper a. Donec eros sem, rhoncus eu pellentesque sit amet,\u00a0",
+                                        "client_photo": {
+                                            "url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/11.jpg",
+                                            "id": 501,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "client_logo": {
+                                            "url": "",
+                                            "id": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "__globals__": {
+                                            "ekit_testimonial_background_group_color": ""
+                                        },
+                                        "_id": "37d7341"
+                                    },
+                                    {
+                                        "client_name": "Adam Smith",
+                                        "designation": "Businessman",
+                                        "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis quam eget ex blandit cursus. Proin est magna, semper a. Donec eros sem, rhoncus eu pellentesque sit amet,\u00a0",
+                                        "client_photo": {
+                                            "url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/11.jpg",
+                                            "id": 501,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "client_logo": {
+                                            "url": "",
+                                            "id": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "__globals__": {
+                                            "ekit_testimonial_background_group_color": ""
+                                        },
+                                        "_id": "3de5ea2"
+                                    },
+                                    {
+                                        "client_name": "Adam Smith",
+                                        "designation": "Businessman",
+                                        "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis quam eget ex blandit cursus. Proin est magna, semper a. Donec eros sem, rhoncus eu pellentesque sit amet,\u00a0",
+                                        "client_photo": {
+                                            "url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/11.jpg",
+                                            "id": 501,
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "client_logo": {
+                                            "url": "",
+                                            "id": "",
+                                            "alt": "",
+                                            "source": "library"
+                                        },
+                                        "__globals__": {
+                                            "ekit_testimonial_background_group_color": ""
+                                        },
+                                        "_id": "40b37d0"
+                                    }
+                                ],
+                                "ekit_testimonial_layout_margin": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "ekit_testimonial_layout_padding": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "20",
+                                    "bottom": "25",
+                                    "left": "30",
+                                    "isLinked": false
+                                },
+                                "ekit_testimonial_layout_background_background": "classic",
+                                "ekit_testimonial_layout_background_color": "#151515CF",
+                                "ekit_testimonial_section_wraper_horizontal_alignment": "left",
+                                "ekit_testimonial_section_wraper_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_testimonial_description_color": "#AAAAAA",
+                                "ekit_testimonial_description_active_color": "#AAAAAA",
+                                "ekit_testimonial_description_typography_typography": "custom",
+                                "ekit_testimonial_description_typography_font_family": "Roboto",
+                                "ekit_testimonial_description_typography_font_weight": "400",
+                                "ekit_testimonial_description_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.8,
+                                    "sizes": []
+                                },
+                                "ekit_testimonial_description_margin": {
+                                    "unit": "em",
+                                    "top": "2",
+                                    "right": "0",
+                                    "bottom": "2",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_testimonial_section_wathermark_color": "#5CD2B9",
+                                "ekit_testimonial_section_wathermark_icon_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "9",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_testimonial_client_image_size": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "ekit_testimonial_layout_background_color": "globals\/colors?id=9be98e4",
+                                    "ekit_testimonial_description_color": "globals\/colors?id=a8362ae",
+                                    "ekit_testimonial_description_active_color": "globals\/colors?id=a8362ae",
+                                    "ekit_testimonial_description_typography_typography": "globals\/typography?id=b859a05",
+                                    "ekit_testimonial_section_wathermark_color": "globals\/colors?id=6fc639b",
+                                    "ekit_testimonial_title_separator_color": "",
+                                    "ekit_testimonial_client_name_normal_color": "globals\/colors?id=6aba3dc",
+                                    "ekit_testimonial_client_name_active_color": "globals\/colors?id=6fc639b",
+                                    "ekit_testimonial_client_name_typography_typography": "globals\/typography?id=e909243",
+                                    "ekit_testimonial_designation_normal_color": "globals\/colors?id=6fc639b",
+                                    "ekit_testimonial_designation_active_color": "globals\/colors?id=6fc639b"
+                                },
+                                "ekit_testimonial_slidetoshow_tablet": 2,
+                                "ekit_testimonial_slidesToScroll_tablet": 1,
+                                "ekit_testimonial_slidetoshow": 3,
+                                "_animation": "fadeInRight",
+                                "animation_duration": "slow"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-testimonial",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

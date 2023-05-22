@@ -1,0 +1,354 @@
+{
+    "version": "0.4",
+    "title": "Portfolio 2",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "2fa8c05d",
+            "settings": {
+                "background_background": "classic",
+                "background_image": {
+                    "url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/a-aawfa.jpg",
+                    "id": 797,
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_position": "center center",
+                "background_size": "cover",
+                "background_overlay_background": "classic",
+                "padding": {
+                    "unit": "em",
+                    "top": "6",
+                    "right": "1",
+                    "bottom": "6",
+                    "left": "1",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_overlay_color": "globals\/colors?id=16356db"
+                }
+            },
+            "elements": [
+                {
+                    "id": "12b106eb",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "padding": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "5a3d461",
+                            "settings": {
+                                "ekit_heading_title": "Portfolio {{Carousel}}",
+                                "ekit_heading_sub_title_show": "",
+                                "ekit_heading_sub_title": "CREATIVE AGENCY",
+                                "ekit_heading_sub_title_position": "before_title",
+                                "ekit_heading_section_extra_title_show": "",
+                                "ekit_heading_extra_title": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis quam eget ex blandit cursus. Proin est magna, semper a porta sed, lacinia eu lectus. Ut volutpat commodo ipsum at volutpat. Donec eros sem, rhoncus eu pellentesque sit amet, congue venenatis ipsum.<\/p>",
+                                "desciption_width": {
+                                    "unit": "em",
+                                    "size": 10,
+                                    "sizes": []
+                                },
+                                "shadow_text_content": "bussiness",
+                                "ekit_heading_seperator_style": "elementskit-border-divider elementskit-style-long",
+                                "ekit_heading_title_color": "#F9F9F9",
+                                "ekit_heading_focused_title_color": "#5CD2B9",
+                                "ekit_heading_use_sub_title_text_fill": "",
+                                "ekit_heading_seperator_height": {
+                                    "unit": "px",
+                                    "size": 3,
+                                    "sizes": []
+                                },
+                                "ekit_heading_seperator_color": "#5CD2B9",
+                                "_animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "__globals__": {
+                                    "ekit_heading_title_color": "globals\/colors?id=6aba3dc",
+                                    "ekit_heading_focused_title_color": "globals\/colors?id=6fc639b",
+                                    "ekit_heading_title_typography_typography": "globals\/typography?id=7980221",
+                                    "ekit_heading_sub_title_color": "globals\/colors?id=6fc639b",
+                                    "ekit_heading_sub_title_typography_typography": "globals\/typography?id=a61baf2",
+                                    "ekit_heading_seperator_color": "globals\/colors?id=6fc639b",
+                                    "ekit_heading_focused_title_typography_typography": ""
+                                },
+                                "ekit_heading_title_tag": "h1",
+                                "show_title_border": "",
+                                "title_float_left": "",
+                                "ekit_heading_sub_title_tag": "h5",
+                                "ekit_heading_focused_title_typography_font_family": "Work Sans",
+                                "ekit_heading_focused_title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 75,
+                                    "sizes": []
+                                },
+                                "ekit_heading_focused_title_typography_font_weight": "bold",
+                                "ekit_heading_focused_title_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "ekit_heading_title_typography_typography": "custom",
+                                "ekit_heading_title_typography_font_family": "Work Sans",
+                                "ekit_heading_title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 75,
+                                    "sizes": []
+                                },
+                                "ekit_heading_title_typography_font_weight": "bold",
+                                "ekit_heading_title_typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "ekit_heading_show_seperator": "",
+                                "ekit_heading_title_align": "text_center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3b8cef3f",
+                            "settings": {
+                                "editor": "<p><a href=\"#\">Home<\/a> \/ Portfolio Carousel<\/p>",
+                                "align": "center",
+                                "typography_font_family": "Roboto",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 10,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "400",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.8,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "text_color": "globals\/colors?id=6aba3dc",
+                                    "typography_typography": ""
+                                },
+                                "_animation": "fadeInUp",
+                                "animation_duration": "slow"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "1f009a8e",
+            "settings": {
+                "padding": {
+                    "unit": "em",
+                    "top": "6",
+                    "right": "1",
+                    "bottom": "6",
+                    "left": "1",
+                    "isLinked": false
+                },
+                "background_background": "classic",
+                "__globals__": {
+                    "background_color": ""
+                },
+                "layout": "full_width",
+                "gap": "no"
+            },
+            "elements": [
+                {
+                    "id": "45bbfbc2",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "padding": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "2c944bda",
+                            "settings": {
+                                "ekit_heading_title": "Latest  {{Work}}.",
+                                "ekit_heading_sub_title_show": "yes",
+                                "ekit_heading_sub_title": "PORTFOLIO",
+                                "ekit_heading_sub_title_position": "before_title",
+                                "ekit_heading_section_extra_title_show": "",
+                                "ekit_heading_extra_title": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis quam eget ex blandit cursus. Proin est magna, semper a porta sed, lacinia eu lectus. Ut volutpat commodo ipsum at volutpat. Donec eros sem, rhoncus eu pellentesque sit amet, congue venenatis ipsum.<\/p>",
+                                "desciption_width": {
+                                    "unit": "em",
+                                    "size": 10,
+                                    "sizes": []
+                                },
+                                "shadow_text_content": "bussiness",
+                                "ekit_heading_seperator_style": "elementskit-border-divider elementskit-style-long",
+                                "ekit_heading_title_color": "#F9F9F9",
+                                "ekit_heading_focused_title_color": "#5CD2B9",
+                                "ekit_heading_sub_title_color": "#5CD2B9",
+                                "ekit_heading_use_sub_title_text_fill": "",
+                                "ekit_heading_seperator_height": {
+                                    "unit": "px",
+                                    "size": 3,
+                                    "sizes": []
+                                },
+                                "ekit_heading_seperator_color": "#5CD2B9",
+                                "_animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "__globals__": {
+                                    "ekit_heading_title_color": "globals\/colors?id=6aba3dc",
+                                    "ekit_heading_focused_title_color": "globals\/colors?id=6fc639b",
+                                    "ekit_heading_title_typography_typography": "globals\/typography?id=cad98b2",
+                                    "ekit_heading_sub_title_color": "globals\/colors?id=6fc639b",
+                                    "ekit_heading_sub_title_typography_typography": "globals\/typography?id=a61baf2",
+                                    "ekit_heading_seperator_color": "globals\/colors?id=6fc639b",
+                                    "ekit_heading_focused_title_typography_typography": "globals\/typography?id=cad98b2"
+                                },
+                                "ekit_heading_title_align": "text_center",
+                                "ekit_heading_title_tag": "h3",
+                                "ekit_heading_sub_title_tag": "h5"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "70320f9a",
+                            "settings": {
+                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum facilisis quam eget ex blandit cursus. Proin est magna, semper a. Donec eros sem, rhoncus eu pellentesque sit amet,\u00a0<\/p>",
+                                "_padding": {
+                                    "unit": "em",
+                                    "top": "0",
+                                    "right": "10",
+                                    "bottom": "0",
+                                    "left": "10",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeInUp",
+                                "animation_duration": "slow",
+                                "__globals__": {
+                                    "text_color": "",
+                                    "typography_typography": ""
+                                },
+                                "align": "center",
+                                "typography_font_family": "Roboto",
+                                "typography_font_weight": "400",
+                                "typography_line_height": {
+                                    "unit": "em",
+                                    "size": 1.8,
+                                    "sizes": []
+                                },
+                                "_padding_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "564a166b",
+                            "settings": {
+                                "carousel": [
+                                    {
+                                        "id": 838,
+                                        "url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/G15.jpg"
+                                    },
+                                    {
+                                        "id": 839,
+                                        "url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/G16.jpg"
+                                    },
+                                    {
+                                        "id": 840,
+                                        "url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/G17.jpg"
+                                    },
+                                    {
+                                        "id": 841,
+                                        "url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/G18.jpg"
+                                    },
+                                    {
+                                        "id": 842,
+                                        "url": "http:\/\/kfkit.rometheme.pro\/criativo\/wp-content\/uploads\/sites\/10\/2021\/08\/G19.jpg"
+                                    }
+                                ],
+                                "thumbnail_size": "full",
+                                "slides_to_show": "3",
+                                "navigation": "dots",
+                                "arrows_position": "outside",
+                                "dots_size": {
+                                    "unit": "px",
+                                    "size": 5,
+                                    "sizes": []
+                                },
+                                "image_spacing": "custom",
+                                "image_spacing_custom": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "em",
+                                    "top": "0",
+                                    "right": "-43",
+                                    "bottom": "0",
+                                    "left": "-43",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "dots_color": "globals\/colors?id=6fc639b"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-carousel",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}
